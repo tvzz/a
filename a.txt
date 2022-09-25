@@ -9,7 +9,7 @@
 {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"AI看","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_Zxzj","name":"在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Cokemv","name":"CM","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_球迷直播","name":"球类","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvzz.github.io/b/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"},
 {"key":"儿童","name":"儿童","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tvzz.github.io/b/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
 {"key":"学习","name":"教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tvzz.github.io/b/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
