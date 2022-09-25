@@ -25,7 +25,7 @@
 {"key": "AliPS","name": "搜索2","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "8f0b3f0dc1834f309f077ea5549e99a8","jar": "https://tvzz.github.io/b/0830.jar;md5;EAE98CE31FB02CEDE605344C3B942668"},
 {"key": "神马影院","name": "神马","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Lezhu","name": "乐猪1","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
-{"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvzz.github.io/b/lib.json"},
+{"key":"csp_xpath_lib","name":"LIB","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvzz.github.io/b/lib.json"},
 {"key":"csp_biubiu_厂长资源-蓝光","name":"厂长2","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvzz.github.io/b/changzhang.json"},
 {"key":"csp_biubiu_在线之家","name":"在线2","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/7555/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json?sign=_JkbZasYLStEEBvY6kNP50KA6nG-d6W59N0HB9ZJNmY%3D%3A0"},
 {"key":"csp_xpath_lezhutv","name":"乐猪2","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvzz.github.io/b/lezhutv.json"},
