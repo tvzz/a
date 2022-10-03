@@ -14,8 +14,6 @@
 
 {"key":"csp_Ddrk","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},  
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
-{"key": "zhaozy","name": "资源1(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "8f0b3f0dc1834f309f077ea5549e99a8","jar": "https://tvzz.github.io/b/0830.jar;md5;EAE98CE31FB02CEDE605344C3B942668"},
-{"key": "AliPS","name": "资源2(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "8f0b3f0dc1834f309f077ea5549e99a8","jar": "https://tvzz.github.io/b/0830.jar;md5;EAE98CE31FB02CEDE605344C3B942668"},
 {"key": "神马影院","name": "94神马","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Lezhu","name": "乐猪","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key":"csp_xpath_lib","name":"Libvio_XP","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvzz.github.io/b/lib.json"},
@@ -26,15 +24,17 @@
 {"key":"csp_xpath_jbb","name":"剧白白_XP","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvzz.github.io/b/jubaibai.json"},
 {"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV_XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvzz.github.io/b/%E7%93%9C%E7%9A%AETV.json"},
 {"key":"csp_biubiu_大象TV","name":"大象TV_XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.bilnn.com/api/v3/file/sourcejump/r4mrBmUe/hQZb7LnK34ZRBqFil90x8bYr_E1WcLBHm0T5gO_k_9o*"},
-{"key":"csp_xpath_球迷直播","name":"球类","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvzz.github.io/b/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"},
-{"key":"儿童","name":"儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tvzz.github.io/b/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
-{"key":"学习","name":"学习教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tvzz.github.io/b/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
+{"key":"csp_xpath_球迷直播","name":"球类合集","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvzz.github.io/b/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"},
+{"key":"儿童","name":"儿童合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tvzz.github.io/b/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
+{"key":"学习","name":"教育合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tvzz.github.io/b/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
 {"key":"美食","name":"美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tvzz.github.io/b/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"},
 {"key":"音乐","name":"音乐合集1","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tvzz.github.io/b/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
 {"key":"热舞","name":"音乐合集2","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://tvzz.github.io/b/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"},
 {"key": "csp_BBB","name":"哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tvzz.github.io/b/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.json"},                                                               
 {"key": "csp_Blixs","name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Blixq","name":"戏曲合集","type": 3,"api": "csp_Blixq","searchable": 0,"quickSearch": 0,"filterable": 1}
+{"key": "csp_Blixq","name":"戏曲合集","type": 3,"api": "csp_Blixq","searchable": 0,"quickSearch": 0,"filterable": 1},
+{"key": "zhaozy","name": "资源1(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "8f0b3f0dc1834f309f077ea5549e99a8","jar": "https://tvzz.github.io/b/0830.jar;md5;EAE98CE31FB02CEDE605344C3B942668"},
+{"key": "AliPS","name": "资源2(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "8f0b3f0dc1834f309f077ea5549e99a8","jar": "https://tvzz.github.io/b/0830.jar;md5;EAE98CE31FB02CEDE605344C3B942668"}
 ],
 
 "parses":[
