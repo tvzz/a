@@ -1,1 +1,607 @@
-9864baacf7897cc165bf7551e9a24ea4f45ef48fb15f8bda1320e107c4aa5d54c3ca7ff44e07a16ead841b6c3db0941c55049a765f93eefacc7a465656868298af6206db7d0caf22e8dcb481713005b4242fbcd0abd41d7c3ebcec2a506bbe159710b345a8cfbf322b04a9c9efd45633bd5767f1358d85a90938f95c4c44e1d0329222aaba4427c381a62383766a41966492a0cc9d084efb203061d83fadbf186694e8f2246709ab1aeef17969f353382530d5cf2bec01afdc45eadd32a49a6620ffdbcd1dd5cb9e633198e9f0085550a2302b2448291454bcd8ad845e367cc418dbbf0dd00c4a7dab9adb90439914beb6a8d09fffefe47a0f32c61467aa9df2d1f55614595c6612fe43eda2606dba61f3d4512598ab1f7053a668c018c9c1f8eb0f38edfe1b7c97c1254b95a5e475884ce41842c32cd401287437c163a69741a3f76407010ceb82c9674972f4f7cf31048716a04d548ea80bf281164249152a7f0afe313fa36f8e281eb73ae1c40f5ff6c9a3b70e072741d0ce4b7c5af41895d34edcb5b1828f7d3664cd66318fe8e88189d976ceafc2540dfb4a5592e3c350546db50c6d769222b216274cbf22921492a47baef10ad5d32d13ae58d05dccc3aa0f7a1a076863676b161701d77cb16add2ccd45c2f30f7c107fc66656dcb5f3b269ca21c73b331e9dec67adfbd1f761c78b7c4338f9e30069ad3e9bbdb229d8474311e65fa3c3117ca7101a72043927a78291dd05c760b2e8886fcd6cc7a510154612f7453b2c1b8db37419357c9bd0487f5ce7f61acab1cda9bc396a4f3f4ca4620076bae71994013024bec45bacfaee8f0835c85ebb8e2f4aa1bf21b3df13f81f2e443c2ebdf73ddc92bb7dba24cd63954a2bbd8353ac91f305c4fdb2d2a24fc19ad9e32aaaadba474218f494730b5beded6f8526cbc7c6883f3897e652c18563dd19cd7a908c07c0115804f84172903705b99e292e2a209ab693b1bc3b76f14ebdaf7f8e7bc577c32d3f89c30680ab728cc8f5b19846643c73ba1d39c2efcea979913b8a5cdb294af08dc3edaa3e0fc32967b7cb6be60587e349a5189355cb72ef9195ecabc882b7bc2fa4c4edad102aec18e0324bdd3dcb2b1cb605e481291c26196a2325aa782cac0145fa2d3853d441c60f4a675fcdfe24e4294a3a45442a89dbd6700ea48db638b0e7296160a8016623e2076987039346657baab066eb0f38edfe1b7c97c1254b95a5e475884ce41842c32cd401287437c163a69741a3f76407010ceb82c9674972f4f7cf310aa5c9abe0cbaf72e2d70f1102d732794bc706b94b475b5aec9e5aaca183fb665e02c341438c1b0ba0a0c5e23ab52ef9a15d0f25bcc384bd5d21e86373fe7ce51589e4de92b6ed992a607359234ff65d576c40d9853073e62cd9e9a66244f6e886dd8337b36f7941810bb5316b074b9d37f32b6dfeb8e604c718be8ae30e45a7cede692bcaa7cb1726f5e8693fd95791ab7176bd409a1fa905cd56f9b212f7ec349288ff180a887e685bab52afbbde23f35cf961b2c5b6dcdc529eafd50beb57d4ba6a3e39722ea6cf2c8a9e9d9ee35c2268f45aa857700f29b815aa0ee93b075dfe7ec56d43f214e4f05f10dc18fe0c540affdb487c05684deb2ff9be1708625e02c341438c1b0ba0a0c5e23ab52ef9af545496f28f73688ffea704ebe82ca5397c87747ed50a60924b1147c643f446f35cf961b2c5b6dcdc529eafd50beb57d4ba6a3e39722ea6cf2c8a9e9d9ee35cb30548fd96afb70070c9b2f4a99e7ba62599c073aa65c164cccecd453af7023b261cc4f5d211cfedd5a2fe2880d574bfb39ba1aeb1adcbfc4fa0a2bd236e4f5b17652336243e48b7fdc441ddcbda9cd7fcbb0a9fe3cfa40e644a5a098606c707eb0ed4e9d86734716a51e61ae9e52ba310432348acfd9bc92dc565c7afaba3af6cd058df73ef1233f04740e17881f24766c354c383261956100a5ec145f39ef559d3f50f7825d7261a571b010930856ee2a57024ca9b56df4b99455da0702082bdedf010d8f6800e3346b3418638ddca704ad2ca640473cf7cef24eae5b5f6e24534fb9d9b6067fa67e5db55483344de8d22bba2d346d760256a3a01b410074c15663a1cbe513d01294770a35fdc1fc8a3de1fc9f0f78048916f21025141c582f6c9a3b70e072741d0ce4b7c5af41895de0588f7ff64977ffa065278e5204b19419bf1c76bfe2cdb1ea186087e4ec7f701808c71df737d3f382f933fe8b1c5bc0c574b5ec4fc9e526e0691546e0a3f0055e052fc5d276c9c7a1ffe8bf218aebfce90a59c971c81cac1f34dcfdb19c83562ca94a6281c4ffa5c34a2971d33bc0f15dc65db9c5aa5a9c46d79cd0dab09854a424105960e21807b06677c22975cf82711bb35e41eb279c3c620123ecee08a1ee99bbd89a54bd4efc3a16e257535914aab46c22c82415571793a636534bf10915dd7c1a0a1098d2401c89361f8b32ff511c907c8d1d982b158f8ca394e823792a47a6b5d6d5eeccde9485d0a65699fec63387681e9b5a34dd8494ea28ecfb2548412b302f237261d30f3745e9ce7c97d624f51a7855d61c7fcd3e6c3a6c3d641749eef4325330a2b531d0e29282d50d65326c34debf383c1a440dec97b5d276bfce6c3a6d8f8f71da5af5b91a407ccc942124737b0aed66d2cf3810599c62654b70c401adfe9a1ae193a8960dbacc5923d063ff72c549f348cd2e068e1de2a95ce710567092dc58ba00389e8e23acf393a2dbed496a0dbf913d0a94e7f5a2eb30548fd96afb70070c9b2f4a99e7ba62599c073aa65c164cccecd453af7023b673f14cb35635c970b1ba1e2eb98e56dcdc548546716f095b1ea68383c0e4ea8e2ccb78df039329ed2ef33030503d9473449d019e554bdea88d7516729550692ae3de395f09c25d7c14e984327f737f210432348acfd9bc92dc565c7afaba3af6cd058df73ef1233f04740e17881f24766c354c383261956100a5ec145f39ef559d3f50f7825d7261a571b010930856ee2a57024ca9b56df4b99455da0702082bdedf010d8f6800e3346b3418638ddca826d311ff56da08668e34558fb53b85421194cb23a43f5e70ee0218468024b357325bf44fc6f5267e296bf3992e641792d1d73e75c0f20a6b1c9ae7469d091f0db15c8364443460f1a2e55ac51325e2e5e02c341438c1b0ba0a0c5e23ab52ef95a8eb65a183578c007fb90a5df1ad0bcf2749b7744580b066bd56959b7c7daea56ae201c0c900f8c84f8edceecceb7045debc2fb111c3a73908982cf00fec733450389d22233130f182a05f59ee397444799aa55ea05de633acb9c1acbd87b562991c0b6d07fa052666b9a39595179f38f7169858f3ab8d4ef88cf041955b6b93eb12d928bec10f5d4ef60991e04b23de08659263fac89a6a5e4413d5831f895bf9eff9678313b7937abc54bd345168279191fad6db467a116d69cda955e31dfe31e0e64f924c37cd20c1f25cd3d5498568134a7a471a7014cbe6e88ddcaafc635d52d0d4fafaf74d508c970a26107b849a42da5272f482a1e57cd3938b772d6747f774105edeea217818e02a9dc607fc45918421bd4595594bf74d5e966805ab73de6fdde1a4e3eb0f2f0ce13a5476709480861c3534cf6919da18cced7caecb28c7a3e075e8fda21f981a1ca1be241a3f76407010ceb82c9674972f4f7cf31e3032234bb1999160173b6d962b296d31e0410e1441a0779f3aead4b097b0a7d5e02c341438c1b0ba0a0c5e23ab52ef99d739412aa3f0b7581256eb93921f3bd1589e4de92b6ed992a607359234ff65d576c40d9853073e62cd9e9a66244f6e8c7dc2a613369894904816f6bfd435aa0858a90a2907f2d219b03944b0a780654da59d646dc6bfee9bc84cadc52b545ce054734a4b3c317bf645623d5b07c11e810de8e84c885d85fea5de27abad3abc1a966d1eaf0713321ff3565d886e186880cadd0631913290b95c66fc63de816a681efcfa5808cd451e4e21d10d00190004e07c3ef9e20708e098f2125f4e2741da844c4c8dae01c6d419f47d904b7c3a8e837b2db3d32e32b8cc7193dfe503fd91bfa9f7aeec7f5d9d01a2c92366579e1b22ef48a702015486fbadc6784efdbfa8dc1838f01360c05563f5c93dde77f56cdb7e80d35713450e2e9d4f02fdf2524c6d5222161774c1370bafd40b8b486aab6761ff41d63e61c3545da61ede141427f2623c0ef0b9297c11bec2209d7dd6efc3c789c4d0ff9f519dcbcadfcf35f635e02c341438c1b0ba0a0c5e23ab52ef92d8092f1b9595c7fde2c2467dc4515468fd8c86751b273cc8d4eda2e62fa6e5ed22daaf0520c61a3a04d48248491a661b2bfb2bfd09700f2d13c25ece00ff0c75c17a1b7a87f8e681aecc06ec7a13129353c2e75a28a0ad46fb55d759ba36e8eef1a05a41b330029e93fc5482be96bda50bd3a322554b3a842c9fb000c3cf45cb270d2f016ddd6ad5cc9b98ec34ec5bc8a35518c3ba5e02e92b3530c4a24781a6765592efc1132f291fa056a4fe5c79fc306a6a53037eb06c43c1e5858e1bbe73caa0b9f909e0d9d1ec1d6734694a48d94414cd50208b9279e30df1098bbcb4db97af0ab0cb377106a2290db3b7def2e11e34597e92cf8631b725999662390c3430ad165308b6b96bd32d438eb000ba65beded6f8526cbc7c6883f3897e652c18563dd19cd7a908c07c0115804f84172903705b99e292e2a209ab693b1bc3b7669880968295964febb778904951df632af16027eb64ef2dfa40905fc8504c8cbcceda918f74dc1e6df79474553bfc70760f3e77cd2ab3fec7f3dc93dfb19d9b9da0f9529bdfa1fc9ab949169e777a5e0cb72ef9195ecabc882b7bc2fa4c4edad102aec18e0324bdd3dcb2b1cb605e48110e344f99f6fba29912254c9a827daa843cb76cf144fd273ae40adb4d8306de441cf889dd2a0362c30d76ecfe94900f19a3bc88af6bcf67df6927901a9510dee4f5261e50e591a01b08bae98ab135080c648d3ccf8763b17ba8819c0683d8e0cbbee164caea22c699ad504abb41b1b5d94b53f6269d769cab27dd98c1c27675254b461166c8466b07261a0e9dab9056ef35cf961b2c5b6dcdc529eafd50beb571ba1161a6f4ab15d903080b27c844976b30548fd96afb70070c9b2f4a99e7ba62599c073aa65c164cccecd453af7023bec959e1647b1d0941659a7d7782896c50ed8c531f690d5b657d1fcdf6adcc39221eef7792b1d92c66a11b457fae03e7c3f9529b31143fb73d91a2ce463a2f3bdf71b32a4a905c277ef89729f31e1d9a99a6579f4c661c06446b11e1a1de37027f790dfb9ae1e2ba772fdc2f99a98b63456b2c06c021779f1fc16c66faec734045206ba2364e7f2926e891b1b77f8d1b69ebbb0238be45f8912bc45fe0a3d37e19052e5a57bd0ab3f9e0509e062f66512e70f887e7ff4eee901df2f030cef8cff806901e14d0d03a19ee0b08f61d345b76a2ee373266acaf0fc29786aad997b620a93e02a3feacc2b7f6679a9cba387421be129179cd8e799482fd459c456d13458c2fd2b9db12a8da3ee703156b61fabfd562d1fdbc47c55c295912cfb1d28caffe12b2f83bd53ece4ea53beb659bc66782e173d90c797d72b8f9af86c36ddb4e2847d3d12724cee3b4357853e50a931054734a4b3c317bf645623d5b07c11e8070d8399cbbd5fc469f86a533b36bed38fd8c86751b273cc8d4eda2e62fa6e5ed22daaf0520c61a3a04d48248491a66137e08c021f9d630f4e15711b0de68c92a2232c8232644470711ff3760edcaca44214a448cd8a84c942f20627f440063d0e03573324def7de4c5de77bb43cce3ed84d1a323ad3c934fa1c0a0259106f4bc43d5310f04e52382582352f3ce0f400f6c9a3b70e072741d0ce4b7c5af41895dc333663fb7d08e6c85d02470d615f8bf790dfb9ae1e2ba772fdc2f99a98b63456b2c06c021779f1fc16c66faec73404937a0b95abeed79e63582201f69d0f306ad1a4a10da9c1c5c9db5143b33a71ad6d0e0e48958200587859f04a885a40b3628ee037a65f4efac7a441c2a2e73abe69880968295964febb778904951df632f8253533dd2da08d53c8292c08825c4e7700c6d45bffd347657804c82a817017ab00ca0369f31a872467308641fa5b1ec045556b94f8dbbde0690c7825453b34b22ef48a702015486fbadc6784efdbfa8dc1838f01360c05563f5c93dde77f5656b6d25ada18ddd94e28f02104fdb2de67bb2dc98b2364bd84af652000979cd73e732a412e64205fe847423af9cf8a2394e1a830cf4a288a3917e964c00c18ff5810ffb9db267cb23eec243b1200bf30c038e75cae196a588a4cccff760ba0d5cbeaed6351a8c1ad2930e5ee543b9a829a6579f4c661c06446b11e1a1de37027f790dfb9ae1e2ba772fdc2f99a98b63456b2c06c021779f1fc16c66faec734045206ba2364e7f2926e891b1b77f8d1b66ad1a4a10da9c1c5c9db5143b33a71ad6d0e0e48958200587859f04a885a40b3e9acc14805eed2e0aedaf088b8b73e0b9e23b9d20e09706c42c91af9aced3e8e84dd52c2d2a339be4905eb1bcfcdbff4a2ee86bf38c73d20ed2b9fb7f0d41624d8794942633ca68cfb1de78d54a4518b4e8de219ad90b5cb3c14281d3b7ec3a6e9542c88ee005c1477412cf609eea79fc306a6a53037eb06c43c1e5858e1bbe73caa0b9f909e0d9d1ec1d6734694a48d7dab92c324d6e8603f1c3cc04edb9b3df005e029aca7cf62de23eae89aff3d4d4c5e622eff84ccd68eea00578a68bc0307d8f62b3f72d3c68849b81d65cf6287ebc17972aed88f34b4f0be030312142443f804778eeb99cd343f480e8e205bcc74d98a3300f12c03bfc2671c3580a7602c52fa53e3c64b7b1612a2541f040bc9b80e9b1203f486ae7d4732a14a53dc0bef59c9ad05afd04b606cffb5bb5315fa5f31ec3a6efe567a97fe9153c1b6c3fb2dce22f98d713e718b2690d41a4dca9adb3fd0cb8bf08fb54afad3e54064c76f22f2ddd6bc50005b4901d340316988dc00b979f9f300239dbe813ed04a5e2918609508b79f1666d13b7070c92f19b11680bb24c99199b9b160d58fa28a3290262f48b4b954eb831f833e8f94ef8af2beb2288859aed97dce832d62674cf55711636d005057e137ac5d5fc4a5fa01d5973be02153ac890922bc32edaef2396ec3bea355a0492784c02c27cf71b335ecddfec58281179223587325aad8869e07b1be16c610e63eea7063adc43a4bbd378840c76ea6114de62bb59b6fb5f5e216b7f28154e5e6c9655296a77461a0b50673d1dd6278858a05c398ec3e72cfb9a35dbf654249e78f63dcab2b8851cd372064349d3d0bb0fb4ccee2a8ecb1a48594e7b66f805be8f1cca3b2e62eba3616bc53b62a59cf3b530f9a612b56f0365430cd05f9569a77bb19f8cc0076a0abf3fbcc09ab8af23350249b7863aa8825364e7949fd37efd0400bc867d187b465195fbd7b411b2068e43c3697d67a04326e998bed10d85e55ab1007e65ab9333a60b46afb7c6e35a1b9d6aeb7cf19bfcef7511e0e64a8e99a713ee9ca94061043fbbff1f0cb42974ba6dd368086cf7400093b92de39d97145478ecc2277751ba21d6ead8c6a08289faa00ea184e86780b25d0834dfd124e6ce7625da7013e8ffd9e00620a2a25cdc9b3f094932710b4fb64387b8a6f2248afba6fda5b900deda8b92adb60b7fa9ba8000fd5a4279e7e68950e32015be42326723c8f2a174233b21182180579bcceb23c69e729e6006ff602ef90cc28f22c62efce698c57c5fea95d851fe36ad1ac674c162b16bf9b123117c3228a9440bb4f0f656e6747249b2e3790204057536ad016a3b377abd25568e8d4ef4b1ad18b2f3ab32ccd81f30e7acf6b68df1a4ec2572da8b10578ff428c259d7c3593e95b3c821fb2ead5f2e768af6a26a5ea05ca2cbe4fd3aee143aeb7771af207b0445bc4a994c8fd5ab992d0242c3fa94de6da8705e68c9be698eb2e562bb0bf6869f2d0af0d61ae1ba79f590be131c6ff66a99a5fb2447ea7c3afcf8e174b11d0cd4e23f8a4458c734cf6097bb3ece831a4d0aab4e0a98e9a7507c4d29ac6214dbe655a0f27b561a33f4221afe59ba362daed69dbb5a9576e114d28e2c6ef65da8b748e0c7635fb4711c9a69ea4574923dbff0bc7e7106d0f7c3719d1cb97d4904dc30a06a74fe7434317f9ab45aaa8b9cb4388908b8b80b7423877bf257e92b6987767fde2b3714dbab6d1613ce6b7720af663d6af5fb18f3bfb1c5fa76a0c82e921531e7c434a3cd450a41fdf7cf56da316b160106504299ce32bdf9deb1bf6b0f6294a81eb5f0aa9de6876a9409c8f0d8e2c44f5ec8cb430e308712d7640fd885f63c33b5495e084e3f60aa36864f2ecec763e4c27dfb498ca9b60d5464665e9298763738078cd611563f6a4b618536820740e608cc6e23be369eb49e75784a2792afb2779c20141d06c4c31558cdb07ce44867d12ad3ff044b8537ca35e77354a5c229364725fd8ce76494a723c1ba82331638ffc5e6b702a99a3281ecb90accf9a0dd457540c97448a7288bcdeaaeb56f7fa20a134c2c601e8da1dd6ec4f4c73dbba32a3de9709b09783a04f34feaf20c0edcd50ae5e87c7ee4290c2136180b6d55eaf62a279b02559925e3b51c1600faa2f9da2c6908480db81bb9498651959ffadd746bb219d5a622007268d81c6188323fd1e06202a9b7612a422b9de4b700e3fc63457e71874e2c106086691a940f96e96594064659dfcdae96fc0744f8110213505281827173e20cf0612618f04fb00ad9d6c616b6dca2981acc07cace0d5cda4251b8d2400db101839400f1a0a80cccd9f6e94c728b39b24f4452aa5b65e514b5a3d59f4ae767b95757b281220b7911f56fad2ced3c72ef9924dd070c9d90aacdf79e1d0ff1ce8dd4538959e63b37239666221f87abc918d46222e3e880ce94581cbc2273e31c856ecb253f8dc24f46cee734c3a10dcc733fd0b46e8d8d0def263667ca452d41ffd6c83bf65d2f856de0a740197f7ff4c2afc09a66114ca57d4ec77e467428b2c80e79de8357cb214a55fedf5b9a7e7e228ad37d578b5249969f3cbb25642d265e0bb2d41d27aa2de37b5f0a3cb764107b77396f9c7881812190a1048c3c1f3d9bdc4cbb6265a2d61d712970e0f1ca4c185be08f2eba598e199c6b546fd8ed257ae740521104e2327fcdc3e6169e23f1e89c1ea4040ff9ed13b93a1d71b962193f5003ed55d503cebd4ecf756a308d1e04add70368e333cb7a94ffdd9506c2b646859561f248bc55517d339e5414241001ee1410927474bde5fa9dbe106bdd603818b2aadd68523d1de70d062ed7402894cdf312c3d9a9ba351f6213c66c736426ef1c9e96a10e63fb6eb328591b129bf7dcb4f75b1b4378de2def48db857cbd5e8d142c9fc18cd5f788005dea15064f48f6b6f916fd028b0bd6ad33dbc8d37e18ee050fe57f3440df7cf9ad471c89081040c5c8cb873255458b2b4a62390b7102fcac23abfce7cdabda6334f976e87eb243c5cbb37781128801f359e8cfa21e4bf4fb032535ab9b25e349fb5505a572a2f3483e007a518c59cb7e38a1376393feb82f5f2a370ce5efa198dc200062afe92eac7b45b9a7edaf7b8d9d6947f2a6febfa9d46a6a7a55441d774a6d50373f7e92c3f0b6e764e379bc0dd54683d53baeca6ba7fa3f3ebad3d7cd4b7984fe2681aef0010788a200e9139c874a9ca57b44bdab627e557272e9c06eb92d9347fc83fee906113c924fd5b102ca5dd4bfc6964af06cdbe4f17132aefdfede678b042129dad218d56166e2d9126711097855ba7590b46e8d8d0def263667ca452d41ffd6cb49eb94e922f692dedba13b8803096fb64f879bc396dfa160c99a5e621b4b201eda651b3fb146ca34c14ff979a4aae81beee0bc517f08fc9a2773636ce722acfb44399f259a176cce509cf6cd9444a92deefc766b424b364fccff42dfd175baf452aa5b65e514b5a3d59f4ae767b95758943d01124285e382469a0068593e4dda78e49aa576c773ff3d53491368972430c82e921531e7c434a3cd450a41fdf7ccdea899120cd39fde7498108d22fd91a2256fe4815562a361f11fd10c0d1f2f4ef87e4ddab180b28b9fc93d6f25a3a5492d8376974c1f0a6e74ad64b3c2c9bbb63a32a5cd8c85b4328fff6a2ef1f4d8e8cdb07ce44867d12ad3ff044b8537ca32b14c92d40433a78e11300abeb026f5d245e2d55fb796b9c19e000299ab70e5cb508314d5ad5a2ebb566b0f8d129548aa8b9cb4388908b8b80b7423877bf257e4f3772c49fcbc2718296ee3d9e513951741d0a85419095cb88e6a5da98aee75308f05c5f9fc6d5e1cb214f9f367308872a1183a2dec48b9403ebaf9ca42c0339222e3e880ce94581cbc2273e31c856ecc1256b9013ea8a9439409ec9ed3aec983bf909994d48bf0b1a7d9ff1e7037239d5dccb0304a4cde1095f4587b0c5f18ec832d7b593902559735cfda0cbd831dffc5c65a7c73f68e9a2682a20c77dc420ec06c46423d779904cd6bb06ac033f26ee5831f2acc0a268b2c6fb3f03be20a7e59382bdd4e3734afffa0fef65beaa74f6816596b10cd31ed839f2e9b9400cc8919d0cc422a5bcb57096fbebf9e9d7c593f9eb6b4088fd10079ca287c5bfc8252c3ec57293e9965271052ea1466f14ed949197dfc2882e28bc1d5c55992235d51e656938c56a2f1c2ed3fe5d6ab75cb03b22608db287713a3c71d377d37599bf9df2c5bd24fa4ba63e5901e12bc1cb4eb7e61f7c8bd2f1aa1050962a1e6d70957b5e2d7c84ada8ca621aa6e31e414f44ee9fc43832b67639f8b92da1a4960adb6f3904ad27d7739d3261ad0e359240af4c26b5168655024b07b73f817b04d7eaa52c6466323599a738d2f8acd65885e55efc25fb9a93d55d32e674678f2afa6382c7e7fe680e8a95ca38702324b8c28fd719197973ede054f8f5f89bb4f9801f2d3d09f4a317e0a53a2108f850a58bc98616f76f6d0d8c93d47b23bd60f142411e64ec546c2f8c87d5bb0aac0036ee7c0269f01563ea95b8342b63201f8fbc6bc8732fbfb4fc1a974b9b8e9ef29a511dd4866f024f47f97d653b7470263cd5b2158325e0857defa73901e1c4fe530c3856e40e65899a450d68c0b0372a77cdfd32feba2900d8639520e824d277840ebd15e4fbb6c302af63bc7f57dd20771276a038f728aa025384e7398c6cbdcbee23507614d06b1d822bb5a739b5f2da2bf46dcbf132419dea2400194fe20d88ea75bbb9a2297864aa1dfd2527a3989f6434a64daf64a250047a9ee734b1633dd3a818231b5db761e54a885e090ea764eae6452f1a46f13ecd93c95d8d7ba7bc30c2c484533763d9fc82448f6bc4063715b8e669d30d66345cb3eacfd7b487017e0fe42ff7f73df873f0ce264d585bc37eb7e85e42824a933109e3a5046099d2da66d7b1f3cf292c1406fd9507b00a35f759dc8d892d5c7137d286e5b2357f889d62f4180c496d5db4d278d9057e150f0dd21b3438c572584f50cb5b7a0f8df76788c54958516be141dc78c39b7da13cec9e146c7342f09181e7d1e47cb6c88a110d17a39069a7feb39ee1149cb5745157e26d138c162d0c689a186eaf8de893f4c303ce04a97f2ff977b302237367f706bc2ef8bc197f3f8dbda57910337dbd311fdbcce68ac245498a81be1f86f77f06c0416c5ddd63b13bb1ad879e842693762713427c6f5ec89ad04eb69a4195ce9b2b1f76ad56475393c0784752681bd52d534a24ade14036bca7aa36a7ad9cb8f0662c6a5568b0d6f148bade98a504796f673b0e7c9750999cc753e885db5d2f5c9ccdf65edd755add580cc8644d3e73703ff58dc7fd12e1f5f023b1406f36c3abfbef16c0f92d7708a9d5920db0b5d4d3d065717d1541312d3cb70d6aff9e1a0996be86f9697ea1e83785916e0c2b8471acac7cce1175bec2bc7017c6d06b87b033432ad528d15ef81f1ef1be80900d435770ea92df4a61787ac92f39bb922c3efc6d0319d19d20de7ea8ffc118741a06f1a88ef8ec307613ba2121420b2bca7ba0326fc0e3c0ef3f458dbc793ad4c2f974
+
+{
+    "sites": [ 
+        {
+            "key": "77",
+            "name": "七七",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "LiteApple",
+            "name": "苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },  
+        {
+            "key": "Lib",
+            "name": "LIB1",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
+		{
+            "key": "Lezhu",
+            "name": "乐猪",
+            "api": "csp_Lezhu",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        }, 
+		{
+            "key": "快看",
+            "name": "快看",
+            "type":3,
+            "api":"csp_Kuaikan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key": "AppTT",
+            "name": "TT",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
+        {
+            "key": "Gitcafe",
+            "name": "纸条",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "26496fd573ac45d5b3b3f77799fc126f"
+        },
+        {
+            "key": "哔滴影视",
+            "name": "哔滴",
+            "type": 3,
+            "api": "csp_Bdys01",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Bttoo",
+            "name": "BTT",
+            "api":"csp_Bttoo",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1
+        },
+        {
+            "key": "农民",
+            "name": "农民",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvzz.github.io/b/1/nongminyingshi.json"
+        },
+        {
+            "key": "Auete",
+            "name": "AUE",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "在线之家",
+            "name": "在线",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+     
+        {
+            "key": "Coke",
+            "name": "CM1",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_XBPQ极品影视",
+            "name": "极品",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://tvzz.github.io/b/1/xbpqjpys.json"
+        },
+        {
+            "key": "csp_xBPQ真不卡",
+            "name": "不卡",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext":"https://tvzz.github.io/b/1/bk.json"
+        },
+        {
+            "key": "Voflix",
+            "name": "VOF",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://tvzz.github.io/b/1/voflix.json"
+        },
+        {
+            "key": "ysgc",
+            "name": "工厂",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://tvzz.github.io/b/1/ysgc.json"
+        },
+        {
+            "key": "瓜皮",
+            "name": "瓜皮",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://tvzz.github.io/b/1/gptv.json"
+        },
+        {
+            "key": "口袋影院",
+            "name": "口袋",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://tvzz.github.io/b/1/kdyy.json"
+        },
+        {
+            "key": "XB Cokemv",
+            "name": "CM2",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://tvzz.github.io/b/1/coke.json"
+        },
+         {
+            "key": "csp_xpath_dm84",
+            "name": "巴士",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://tvzz.github.io/b/1/dm84.json"
+        }, 
+        {
+            "key":"csp_xpath_libv",
+            "name": "LIB2",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://tvzz.github.io/b/1/libvp.json"
+        },
+        {
+            "key":"csp_xpath_zxzj",
+            "name": "在线",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://tvzz.github.io/b/1/zxzjp.json"
+        },
+        {
+            "key": "Bili",
+            "name": "哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvzz.github.io/b/1/bili.json"
+        },
+        {   
+            "key": "在线直播",
+            "name": "主播",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },	
+        {
+            "key": "IQIYI",
+            "name": "解析1",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "QQ",
+            "name": "解析2",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "MGTV",
+            "name": "解析3",
+            "type": 3,
+            "api": "csp_MGTV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "360",
+            "name": "解析4",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },	
+        {
+            "key": "Upyunso",
+            "name": "搜索1",
+            "type": 3,
+            "api": "csp_Upyunso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "26496fd573ac45d5b3b3f77799fc126f"
+        },
+        {
+            "key": "AliPS",
+            "name": "搜索2",
+            "type":3,
+            "api":"csp_AliPS",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext": "26496fd573ac45d5b3b3f77799fc126f"
+        }, 		
+        {
+            "key": "t4_公共",
+            "name": "搜索3",
+            "type": 4,
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "t4_合集",
+            "name": "搜索4",
+            "type": 4,
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "t4_聚合",
+            "name": "搜索5",
+            "type": 4,
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "推送",
+            "name": "推送",
+            "type":3,
+            "api":"csp_PushAgent",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext": "26496fd573ac45d5b3b3f77799fc126f"
+        }
+    ],
+       "lives":[
+{"group":"redirect","channels":[
+    {"name":"live","urls":[
+        "proxy://do=live&type=txt&ext=aHR0cHM6Ly90dnp6LmdpdGh1Yi5pby9iLzEvbC50eHQ="
+    ]}]}],
+     "parses": [
+    {"name":"解析聚合","type":3,"url":"Demo"},
+    {"name":"Json并发","type":2,"url":"Parallel"},
+    {"name":"Json轮询","type":2,"url":"Sequence"},
+    {"name": "keyu","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩","leshi","cntv","CNTV","xigua","XIGUA"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+    {"name":"bozrc","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
+    {"name": "juhe",   "type": 1,   "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
+    {"name":"okjx",
+    "type":0,
+    "url":"https://okjx.cc/?url="}
+    ],
+    "flags":[
+"youku",
+"qq",
+"QQ",
+"iqiyi",
+"qiyi",
+"letv",
+"sohu",
+"tudou",
+"pptv",
+"PPTV",
+"mgtv",
+"ltnb",
+"rx",
+"CL4K",
+"xfyun",
+"wuduzy",
+"wasu",
+"bilibili",
+"renrenmi",
+"xmm",
+"xigua",
+"m1905",
+"funshion",
+"优酷",
+"芒果",
+"腾讯",
+"爱奇艺",
+"奇艺",
+"哔哩哔哩",
+"哔哩"],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
+    ],
+       "spider":"https://tvzz.github.io/b/1/1018.jar;md5;5a7488362fc669c8f3e41dd094884948"
+}
