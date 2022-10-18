@@ -19,24 +19,6 @@
             "quickSearch": 1,
             "filterable": 1
         },  
-        {
-            "key": "Lib",
-            "name": "LIB1",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }, 
-		{
-            "key": "Lezhu",
-            "name": "乐猪",
-            "api": "csp_Lezhu",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        }, 
 		{
             "key": "快看",
             "name": "快看",
@@ -55,25 +37,6 @@
             "quickSearch": 1,
             "filterable": 1
         }, 
-        {
-            "key": "Gitcafe",
-            "name": "纸条",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "26496fd573ac45d5b3b3f77799fc126f"
-        },
-        {
-            "key": "哔滴影视",
-            "name": "哔滴",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "Bttoo",
             "name": "BTT",
@@ -94,6 +57,54 @@
             "ext": "https://tvzz.github.io/b/1/nongminyingshi.json"
         },
         {
+            "key": "Gitcafe",
+            "name": "纸条",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "26496fd573ac45d5b3b3f77799fc126f"
+        },
+        {
+            "key": "哔滴影视",
+            "name": "哔滴",
+            "type": 3,
+            "api": "csp_Bdys01",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "在线之家",
+            "name": "在线1",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+         {
+            "key":"csp_xpath_zxzj",
+            "name": "在线2",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://tvzz.github.io/b/1/zxzjp.json"
+        },
+       {
+            "key": "Voflix",
+            "name": "VOF",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://tvzz.github.io/b/1/voflix.json"
+        },
+        {
             "key": "Auete",
             "name": "AUE",
             "type": 3,
@@ -101,26 +112,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
+        },				
         {
-            "key": "在线之家",
-            "name": "在线",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "key": "瓜皮",
+            "name": "瓜皮",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://tvzz.github.io/b/1/gptv.json"
         },
-     
-        {
-            "key": "Coke",
-            "name": "CM1",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
         {
             "key": "csp_XBPQ极品影视",
             "name": "极品",
@@ -141,65 +144,23 @@
             "filterable": 0,
             "ext":"https://tvzz.github.io/b/1/bk.json"
         },
-        {
-            "key": "Voflix",
-            "name": "VOF",
+		{
+            "key": "Lezhu",
+            "name": "乐猪",
+            "api": "csp_Lezhu",
             "type": 3,
-            "api": "csp_XBiubiu",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        }, 		
+        {
+            "key": "Lib",
+            "name": "LIB1",
+            "type": 3,
+            "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvzz.github.io/b/1/voflix.json"
-        },
-        {
-            "key": "ysgc",
-            "name": "工厂",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvzz.github.io/b/1/ysgc.json"
-        },
-        {
-            "key": "瓜皮",
-            "name": "瓜皮",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://tvzz.github.io/b/1/gptv.json"
-        },
-        {
-            "key": "口袋影院",
-            "name": "口袋",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvzz.github.io/b/1/kdyy.json"
-        },
-        {
-            "key": "XB Cokemv",
-            "name": "CM2",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvzz.github.io/b/1/coke.json"
-        },
-         {
-            "key": "csp_xpath_dm84",
-            "name": "巴士",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://tvzz.github.io/b/1/dm84.json"
+            "filterable": 1
         }, 
         {
             "key":"csp_xpath_libv",
@@ -210,17 +171,26 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://tvzz.github.io/b/1/libvp.json"
+        },    
+        {
+            "key": "Coke",
+            "name": "CM1",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
-            "key":"csp_xpath_zxzj",
-            "name": "在线",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://tvzz.github.io/b/1/zxzjp.json"
-        },
+            "key": "XB Cokemv",
+            "name": "CM2",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://tvzz.github.io/b/1/coke.json"
+        },		
         {
             "key": "Bili",
             "name": "哔哩",
@@ -239,7 +209,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },	
+        },
+         {
+            "key": "csp_xpath_dm84",
+            "name": "巴士",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://tvzz.github.io/b/1/dm84.json"
+        }, 		
         {
             "key": "IQIYI",
             "name": "解析1",
