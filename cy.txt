@@ -12,7 +12,6 @@
 影视[精品线路12,http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod,解析]
 影视[精品线路13,http://www.xingchentv.cn/mogai_api.php/v1.vod,解析]
 影视[精品线路14,http://cms.seo-tv.work/mogai_api.php/v1.vod,解析]
-影视[精品线路15,https://www.genmov.com/mogai_api.php/v1.vod,解析]
 解析[线路1,https://jx.bozrc.com:4433/player/?url=]
 解析[线路2,https://okjx.cc/?url=]
 解析[线路3,https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url=]
