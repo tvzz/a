@@ -84,6 +84,15 @@
             "ext": "https://tvzz.github.io/b/1/nongminyingshi.json"
         },	
         {
+            "key": "IQIYI",
+            "name": "多多云(解析)",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "在线之家",
             "name": "在线之家(爬虫)",
             "type": 3,
@@ -111,6 +120,36 @@
             "filterable": 1
         },
         {
+            "key": "zhaozy",
+            "name": "找资源(仅搜索)",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+        },		
+        {
+            "key": "Yisou",
+            "name": "一搜(仅搜索)",
+            "type":3,
+            "api":"csp_Yisou",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+        },
+        {
+            "key": "Upyunso",
+            "name": "云搜(仅搜索)",
+            "type": 3,
+            "api": "csp_Upyunso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
+        },	
+        {
             "key": "Fantuan",
             "name": "饭团(爬虫)",
             "type": 3,
@@ -119,6 +158,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {
+            "key": "QQ",
+            "name": "极速云(解析)",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },	 
         {
             "key": "🐷",
             "name": "乐猪(爬虫)",
@@ -148,26 +196,8 @@
             "ext":"https://tvzz.github.io/b/1/gptv.json"
         },	
         {
-            "key": "IQIYI",
-            "name": "解析1",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "QQ",
-            "name": "解析2",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },	
-        {
             "key": "MGTV",
-            "name": "解析3",
+            "name": "酷播云(解析)",
             "type": 3,
             "api": "csp_MGTV",
             "searchable": 1,
@@ -201,37 +231,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },		
-        {
-            "key": "zhaozy",
-            "name": "找资源(仅搜索)",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-        },		
-        {
-            "key": "Yisou",
-            "name": "一搜(仅搜索)",
-            "type":3,
-            "api":"csp_Yisou",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-        },
-        {
-            "key": "Upyunso",
-            "name": "云搜(仅搜索)",
-            "type": 3,
-            "api": "csp_Upyunso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-        },		
+        },			
         {
             "key": "推送",
             "name": "推送",
