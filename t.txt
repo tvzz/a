@@ -2,7 +2,7 @@
     "sites": [ 
         {
             "key": "77",
-            "name": "七七",
+            "name": "七七(爬虫)"",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -10,53 +10,17 @@
             "filterable": 1
         },
         {
-            "key": "LiteApple",
-            "name": "苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },  
-        {
-            "key": "快看",
-            "name": "快看",
-            "type":3,
-            "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key": "Juhuang",
-            "name": "剧荒",
+            "name": "剧荒(爬虫)",
             "type": 3,
             "api": "csp_Juhuang",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "AppTT",
-            "name": "TT",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Bttoo",
-            "name": "BTT",
-            "api":"csp_Bttoo",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
+		{
             "key": "厂长",
-            "name": "厂长",
+            "name": "厂长(爬虫)",
             "type":3,
             "api":"csp_Czsapp",
             "searchable":1,
@@ -64,26 +28,44 @@
             "filterable":1
         }, 
         {
-            "key": "Ysgc",
-            "name": "工厂",
+            "key": "360",
+            "name": "360(解析)",
             "type": 3,
-            "api": "csp_Ysgc",
+            "api": "csp_SP360",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "在线之家",
-            "name": "在线",
+            "key": "快看",
+            "name": "快看(爬虫)",
+            "type":3,
+            "api":"csp_Kuaikan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key": "LiteApple",
+            "name": "小苹果(爬虫)",
             "type": 3,
-            "api": "csp_Zxzj",
+            "api": "csp_LiteApple",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },		
+        },   
+        {
+            "key": "AppTT",
+            "name": "TT(爬虫)",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "Gitcafe",
-            "name": "纸条",
+            "name": "小纸条(爬虫)",
             "type": 3,
             "api": "csp_Gitcafe",
             "searchable": 1,
@@ -93,7 +75,7 @@
         }, 
         {
             "key": "农民",
-            "name": "农民",
+            "name": "农民(爬虫)",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
@@ -102,17 +84,35 @@
             "ext": "https://tvzz.github.io/b/1/nongminyingshi.json"
         },	
         {
-            "key": "360",
-            "name": "360",
+            "key": "在线之家",
+            "name": "在线之家(爬虫)",
             "type": 3,
-            "api": "csp_SP360",
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },		
+        {
+            "key": "Bttoo",
+            "name": "两个BT(爬虫)",
+            "api":"csp_Bttoo",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1
+        },
+        {
+            "key": "Ysgc",
+            "name": "影视工厂(爬虫)",
+            "type": 3,
+            "api": "csp_Ysgc",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
             "key": "Fantuan",
-            "name": "饭团",
+            "name": "饭团(爬虫)",
             "type": 3,
             "api": "csp_Fantuan",
             "searchable": 1,
@@ -120,27 +120,8 @@
             "filterable": 1
         },
         {
-            "key": "Coke",
-            "name": "CM",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },	
-        {
-            "key": "Voflix",
-            "name": "VOF",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvzz.github.io/b/1/voflix.json"
-        },	
-        {
             "key": "🐷",
-            "name": "乐猪",
+            "name": "乐猪(爬虫)",
             "type": 3,
             "api": "csp_Lezhu",
             "searchable": 1,
@@ -148,35 +129,8 @@
             "filterable": 1
         },
         {
-            "key": "IQIYI",
-            "name": "极速1",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "MGTV",
-            "name": "极速2",
-            "type": 3,
-            "api": "csp_MGTV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "QQ",
-            "name": "极速3",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },	
-        {
             "key": "Bdys01",
-            "name": "哔滴",
+            "name": "哔滴影视(爬虫)",
             "type": 3,
             "api": "csp_Bdys01",
             "searchable": 1,
@@ -184,47 +138,8 @@
             "filterable": 1
         },				
         {
-            "key": "csp_xBPQ真不卡",
-            "name": "不卡",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"https://tvzz.github.io/b/1/bk.json"
-        },	
-        {
-            "key": "csp_XBPQ极品影视",
-            "name": "极品",
-            "type":3,
-            "api":"csp_xBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://tvzz.github.io/b/1/xbpqjpys.json"
-        },
-        {
-            "key": "口袋影院",
-            "name": "口袋",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvzz.github.io/b/1/kdyy.json"
-        },
-        {
-            "key": "Auete",
-            "name": "AUE",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "瓜皮",
-            "name": "瓜皮",
+            "name": "瓜皮TV（爬虫）",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
@@ -233,8 +148,54 @@
             "ext":"https://tvzz.github.io/b/1/gptv.json"
         },	
         {
+            "key": "IQIYI",
+            "name": "爱(解析)",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "MGTV",
+            "name": "芒(解析)",
+            "type": 3,
+            "api": "csp_MGTV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "QQ",
+            "name": "腾(解析)",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },	
+        {
+            "key": "Coke",
+            "name": "Cokemv(爬虫)",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },	
+        {
+            "key": "Voflix",
+            "name": "Voflix(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://tvzz.github.io/b/1/voflix.json"
+        },	
+        {
             "key": "Dm84",
-            "name": "巴士",
+            "name": "动漫巴士（爬虫）",
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
@@ -242,45 +203,8 @@
             "filterable": 1
         },		
         {
-            "key": "Lgyy",
-            "name": "蓝光",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },			
-        {
-            "key": "Nkdy",
-            "name": "难看",
-            "type": 3,
-            "api": "csp_Nkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },	
-        {
-            "key": "Yj1211",
-            "name": "主播",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Bili",
-            "name": "哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tvzz.github.io/b/1/bili.json"
-        },
-        {
             "key": "zhaozy",
-            "name": "搜索1",
+            "name": "找资源(仅搜索)",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
@@ -290,7 +214,7 @@
         },		
         {
             "key": "Yisou",
-            "name": "搜索2",
+            "name": "一搜(仅搜索)",
             "type":3,
             "api":"csp_Yisou",
             "searchable":1,
@@ -300,7 +224,7 @@
         },
         {
             "key": "Upyunso",
-            "name": "搜索3",
+            "name": "云搜(仅搜索)",
             "type": 3,
             "api": "csp_Upyunso",
             "searchable": 1,
