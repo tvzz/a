@@ -184,8 +184,57 @@
             "filterable": 1
         },				
         {
+            "key": "csp_xBPQ真不卡",
+            "name": "不卡",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext":"https://tvzz.github.io/b/1/bk.json"
+        },	
+        {
+            "key": "csp_XBPQ极品影视",
+            "name": "极品",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://tvzz.github.io/b/1/xbpqjpys.json"
+        },
+        {
+            "key": "口袋影院",
+            "name": "口袋",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://tvzz.github.io/b/1/kdyy.json"
+        },
+        {
+            "key": "Auete",
+            "name": "AUE",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "瓜皮",
+            "name": "瓜皮",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://tvzz.github.io/b/1/gptv.json"
+        },	
+        {
             "key": "Dm84",
-            "name": "动漫巴士(爬虫)",
+            "name": "巴士",
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
@@ -258,65 +307,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-        },
-        {
-            "key": "AliPS",
-            "name": "搜索4",
-            "type":3,
-            "api":"csp_AliPS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-        }, 		
-        {
-            "key": "csp_xBPQ真不卡",
-            "name": "不卡",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"https://tvzz.github.io/b/1/bk.json"
-        },	
-        {
-            "key": "csp_XBPQ极品影视",
-            "name": "极品",
-            "type":3,
-            "api":"csp_xBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://tvzz.github.io/b/1/xbpqjpys.json"
-        },
-        {
-            "key": "口袋影院",
-            "name": "口袋",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvzz.github.io/b/1/kdyy.json"
-        },
-        {
-            "key": "Auete",
-            "name": "AUE",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "瓜皮",
-            "name": "瓜皮",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://tvzz.github.io/b/1/gptv.json"
         },		
         {
             "key": "推送",
