@@ -1,21 +1,14 @@
 /点播格式/
 影视[精品1,http://vipmv.cc/api.php/provide/vod/at/xml,解析]
 影视[精品2,http://v.i7yc.cn/api.php/v1.vod,解析]
-影视[精品3,http://app.wnvod.net/lvdou_api.php/v1.vod,解析]
-影视[精品4,http://www.qunxinys.com/api.php/v1.vod,解析]
-影视[精品5,http://app.ishen520.com/api.php/v1.vod,解析]
-影视[精品6,http://www.xingchentv.cn/mogai_api.php/v1.vod,解析]
-影视[精品7,http://www.feishi.ltd/api.php/provide/vod/at/xml,解析]
-影视[精品8,https://www.genmov.com/mogai_api.php/v1.vod,解析]
-影视[精品9,http://v.i7yc.cn/api.php/v1.vod,解析]
-影视[精品10,http://app.wnvod.net/lvdou_api.php/v1.vod,解析]
-影视[精品11,http://www.qunxinys.com/api.php/v1.vod,解析]
-影视[精品12,http://app.ishen520.com/api.php/v1.vod,解析]
-影视[精品13,http://app.qianju.cc/api.php/v1.vod,解析]
-影视[精品14,http://www.xingchentv.cn/mogai_api.php/v1.vod,解析]
-影视[精品15,https://www.zhanlangbu.com/api.php/provide/vod/at/xml,解析]
-影视[精品16,https://app.shuhai99.com/api.php/v1.vod,解析]
-影视[精品17,http://app.mengdandan.com/xgapp.php/v1/,解析]
+影视[精品3,http://www.qunxinys.com/api.php/v1.vod,解析]
+影视[精品4,http://app.ishen520.com/api.php/v1.vod,解析]
+影视[精品5,http://www.xingchentv.cn/mogai_api.php/v1.vod,解析]
+影视[精品6,http://www.feishi.ltd/api.php/provide/vod/at/xml,解析]
+影视[精品7,http://app.wnvod.net/lvdou_api.php/v1.vod,解析]
+影视[精品8,https://www.zhanlangbu.com/api.php/provide/vod/at/xml,解析]
+影视[精品9,https://app.shuhai99.com/api.php/v1.vod,解析]
+影视[精品10,http://app.mengdandan.com/xgapp.php/v1/,解析]
 
 /解析格式/
 解析[线路1,http://rxjx.kuanjv.com/allm3u8.php?url=]
@@ -154,7 +147,7 @@ CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8﻿#
 网页[
 
 名称##
-	精品18
+	精品11
 ##
 
 分类##
