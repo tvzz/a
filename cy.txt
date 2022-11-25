@@ -1,3 +1,4 @@
+/点播格式/
 影视[精品线路1,http://v.i7yc.cn/api.php/v1.vod,解析]
 影视[精品线路2,http://app.wnvod.net/lvdou_api.php/v1.vod,解析]
 影视[精品线路3,http://101.34.7.151:600/api.php/provide/vod/at/xml,解析]
@@ -9,16 +10,80 @@
 影视[精品线路9,http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod,解析]
 影视[精品线路10,http://www.xingchentv.cn/mogai_api.php/v1.vod,解析]
 影视[精品线路11,http://cms.seo-tv.work/mogai_api.php/v1.vod,解析]
-解析[线路1,https://jx.bozrc.com:4433/player/?url=]
-解析[线路2,https://okjx.cc/?url=]
-解析[线路3,https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url=]
-解析[线路4,http://api.vip123kan.vip/?url=]
-解析[线路5,https://jx.parwix.com:4433/player/?url=]
-解析[线路6,http://newjiexi.gotka.top/keyu3.php?url=]
-解析[线路7,https://jx.m3u8.tv/jiexi/?url=]
+影视[影视1,https://1080zyk4.com/inc/api.php,解析]
+影视[天空资源,http://api.tiankongapi.com/api.php/provide/vod/at/xml,解析]
+影视[阿里影视,http://www.feishi.ltd/api.php/provide/vod/at/xml,解析]
+影视[爱更剧,https://www.genmov.com/mogai_api.php/v1.vod,解析]
+影视[小城影视,http://v.i7yc.cn/api.php/v1.vod,解析]
+影视[万能影视,http://app.wnvod.net/lvdou_api.php/v1.vod,解析]
+影视[云海影视,http://101.34.7.151:600/api.php/provide/vod/at/xml,解析]
+影视[群鑫影视,http://www.qunxinys.com/api.php/v1.vod,解析]
+影视[枇杷影院,https://www.pipamovie.com/api.php/v1.vod,解析]
+影视[爱神影视,http://app.ishen520.com/api.php/v1.vod,解析]
+影视[小柒影视,https://www.xiaoqi0.cn/cuican_api.php/v1.vod,解析]
+影视[天天影视,http://app.qianju.cc/api.php/v1.vod,解析]
+影视[星辰TV,http://www.xingchentv.cn/mogai_api.php/v1.vod,解析]
+影视[爱酷影视,https://www.zhanlangbu.com/api.php/provide/vod/at/xml,解析]
+影视[木子看剧,https://mzkj.maccms.cf/api.php/provide/vod/at/xml,解析]
+影视[天堂资源,http://vipmv.cc/api.php/provide/vod/at/xml,解析]
+影视[小猫咪,http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml,解析]
+影视[量子资源,https://cj.lziapi.com/api.php/provide/vod/at/xml,解析]
+影视[蓝光影视,http://www.zzrhgg.com/api.php/provide/vod/at/xml,解析]
+影视[XYUI资源, http://jx4.xyui.top:7001/api.php/provide/vod/at/xml,解析]
+影视[龙腾资源, http://175.178.7.35:2020/api.php/provide/vod/at/xml,解析]
+影视[冷视TV,https://len.tv/api.php/v1.vod,解析]
+影视[贵宾影院,http://vipdytv.com/api.php/provide/vod/at/xml,解析]
+影视[北川影视,https://www.bcwzg.com/api.php/provide/vod/at/xml,解析]
+影视[亿云影视,http://123.ok00.xyz/api.php/v1.vod,解析]
+影视[渔渔影视,http://luobo.yugenye.site/api.php/v1.vod,解析]
+影视[鑫总影视,http://app.mmhkj.xyz/lvdou_api.php/v1.vod,解析]
+影视[悟空影院,http://dapi.pntao.com/api.php/v1.vod,解析]
+影视[忆梦影视,http://anltv.cn/api.php/provide/vod/at/xml,解析]
+影视[F9采集,https://www.ff9.top/api.php/provide/vod/at/xml,解析]
+影视[FOX资源,https://api.foxzyapi.com/api.php/provide/vod/at/xml,解析]
+影视[星海资源,https://www.xhzy01.com/api.php/provide/vod/at/xml,解析]
+影视[诺讯资源, http://caiji.nxflv.com/api.php/provide/vod/at/xml,解析]
+影视[U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析]
+影视[tom资源, https://api.tomcaiji.com/api.php/provide/vod/at/xml,解析]
+影视[快车资源,https://caiji.kczyapi.com/api.php/provide/vod/at/xml,解析]
+影视[松鼠资源,https://m3u8.songshuzy.com/api.php/provide/vod/at/xml,解析]
+影视[卧龙资源,https://collect.wolongzyw.com/api.php/provide/vod/at/xml/,解析]
+影视[淘剧社,https://app.shuhai99.com/api.php/v1.vod,解析]
+影视[萌蛋蛋(速度快有广告),http://app.mengdandan.com/xgapp.php/v1/,解析]
+影视[精品线路13,http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod,解析]
+影视[精品线路16,http://wzys.scp00.cn/api.php/v1.vod,解析]
+影视[速更资源,https://sugengzy.cn/api.php/provide/vod/at/xml/,解析]
+影视[贵宾影院,http://vipdytv.com/api.php/provide/vod/from/wjm3u8/at/xml,不解析]
+影视[星海资源,https://www.xhzy01.com/api.php/provide/vod/from/xhm3u8/at/xml,不解析]
+影视[FOX资源,https://api.foxzyapi.com/api.php/provide/vod/from/foxm3u8/at/xml,不解析]
+影视[FF9采集,https://www.ff9.top/api.php/provide/vod/from/wjm3u8/at/xml,不解析]
+影视[星海资源, https://www.xhzy01.com/api.php/provide/vod/from/xhm3u8/at/xml,不解析]
+影视[快播采集,http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml,不解析]
+影视[天空采集,https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/at/xml,不解析]
+影视[U酷资源,https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/at/xml,不解析]
+影视[tom资源, https://api.tomcaiji.com/api.php/provide/vod/from/tomm3u8/at/xml,不解析]
+影视[八戒资源,http://cj.bajiecaiji.com/inc/bjm3u8.php,不解析]
+影视[红牛资源,https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml,不解析]
+影视[快车资源,https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/at/xml,不解析]
+影视[蓝光影视,http://www.zzrhgg.com/api.php/provide/vod/from/dbm3u8/at/xml,不解析]
+影视[番茄资源,http://api.fqzy.cc/api.php/provide/vod/at/xml,https://dp.fqplayer.com/dplayer/?url=]
+影视[多多资源,https://www.ddzyz1.com/api.php/provide/vod/at/xml,https://player.movie09.com/dplayer/?url=]
+
+/解析格式/
+解析[线路1,http://newjiexi.gotka.top/keyu3.php?url=]
+解析[线路2,http://rxjx.kuanjv.com/allm3u8.php?url=]
+解析[线路3,http://123.57.56.94:9931/lanlan/?url=]
+解析[线路4,http://lanlan.ckflv.cn/?url=]
+解析[线路5,https://jx.bozrc.com:4433/player/?url=]
+解析[线路6,https://okjx.cc/?url=]
+解析[线路7,https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url=]
+解析[线路8,http://api.vip123kan.vip/?url=]
+解析[线路9,http://newjiexi.gotka.top/keyu3.php?url=]
+解析[线路10,https://jx.m3u8.tv/jiexi/?url=]
+
 直播[
 分类##
-央视|卫视|少儿
+央视|卫视|少儿|电影
 ##
 央视###
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#
@@ -73,6 +138,7 @@ CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8﻿#
 新疆卫视,http://111.13.42.234/PLTV/88888888/224/3221226422/1.m3u8#
 西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8#
 厦门卫视,http://111.40.196.34/PLTV/88888888/224/3221225643/index.m3u8#
+
 ###
 少儿###
 黑莓电竞,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8#
@@ -133,5 +199,324 @@ CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8﻿#
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8#
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8#
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8#
+
 ###
+电影###
+华语院线(爱奇艺),http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8#
+CHC电影,http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8#
+CHC高清电影,http://111.20.35.103:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=#
+峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8#
+经典再现,http://112.19.214.90:8883/tsfile/live/1009_1.m3u8#
+高清影院,http://112.19.214.90:8883/tsfile/live/1011_1.m3u8#
+东方电影,http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/d1.m3u8#
+龙鑫电影,http://106.115.24.46:9901/tsfile/live/1029_1.m3u8#
+清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8#
+東森超視,http://171.108.239.13:8181/tsfile/live/1023_1.m3u8#
+天映電影CCM,http://171.108.239.13:8181/tsfile/live/1009_1.m3u8#
+東森電影,http://171.108.239.13:8181/tsfile/live/1010_1.m3u8#
+龍翔時代,http://171.108.239.13:8181/tsfile/live/1011_1.m3u8#
+星空衛視,http://171.108.239.13:8181/tsfile/live/1012_1.m3u8#
+私人影院,http://171.108.239.13:8181/tsfile/live/1014_1.m3u8#
+TVB星河,http://171.108.239.13:8181/tsfile/live/1005_1.m3u8#
+CHC家庭影院,http://171.108.239.13:8181/tsfile/live/1006_1.m3u8#
+CHC動作電影,http://171.108.239.13:8181/tsfile/live/1007_1.m3u8#
+CHC高清電影,http://171.108.239.13:8181/tsfile/live/1008_1.m3u8#
+高清電影1,http://171.108.239.13:8181/tsfile/live/1019_1.m3u8#
+高清電影2,http://171.108.239.13:8181/tsfile/live/1020_1.m3u8#
+高清電影3,http://171.108.239.13:8181/tsfile/live/1021_1.m3u8#
+高清電影4,http://171.108.239.13:8181/tsfile/live/1022_1.m3u8#
+###
+]
+
+网页[
+
+名称##
+	1080P
+##
+
+分类##
+
+	分类(电影|电视剧|综艺|动漫)
+	分类地址(https://www.appmovie.cc/index.php/vod/type/id/1/page/页数.html|https://www.appmovie.cc/index.php/vod/type/id/2/page/页数.html|https://www.appmovie.cc/index.php/vod/type/id/3/page/页数.html|https://www.appmovie.cc/index.php/vod/type/id/4/page/页数.html)
+
+##
+
+列表##
+	//截取视频列表框数据块
+	列表数据头(<!-- 列表 -->)
+	列表数据尾(<!-- end 列表 -->)
+	
+	//截取所有视频数据
+	数组_列表头(<li class="stui-vodlist__item">)
+	数组_列表尾(</li>)
+	
+	//文本型
+	片名头(title=")
+	片名尾(")
+	
+	封面头(data-original=")
+	封面尾(")
+	
+	播放页url头(href=")
+	播放页url尾(")
+	
+	状态头(<span class="pic-text text-right">)
+	状态尾(</span>)
+
+	地址头(https://www.appmovie.cc)//这里写播放地址前面的域名之类的，就是补全播放页地址
+	地址尾()//这里写上播放地址后面数据,一般没有
+
+##
+
+搜索##
+    搜索接口(https://app.movie/index.php/vod/search.html?wd=搜索&submit=)
+    //截取视频列表框数据块
+	列表数据头(<!-- 列表 -->)
+	列表数据尾(<!-- end 列表 -->)
+	
+	//截取所有视频数据
+	数组_列表头(<li class="stui-vodlist__item">)
+	数组_列表尾(</li>)
+	
+	//文本型
+	片名头(title=")
+	片名尾(")
+	
+	封面头(data-original=")
+	封面尾(")
+	
+	播放页url头(href=")
+	播放页url尾(")
+	
+	状态头(<span class="pic-text text-right">)
+	状态尾(</span>)
+
+	地址头(https://www.appmovie.cc)//这里写播放地址前面的域名之类的，就是补全播放页地址
+	地址尾()//这里写上播放地址后面数据,一般没有
+##
+
+剧集##
+
+	剧名头(<h3 class="title">)
+	剧名尾(</h3>)
+	简介头(<div class="stui-content__desc col-pd clearfix">)
+	简介尾(</div>)
+	
+	//截取剧集数据块
+	剧集数据头(<!-- 播放地址 -->)
+	剧集数据尾(<!-- end 播放地址 -->)
+	
+	//截取所有播放器的名字
+	数组_播放器头(<h3 class="title">)
+	数组_播放器尾(</h3>)
+	//截取所有播放器的剧集数据
+	数组_剧集头(<ul class="stui-content__playlist clearfix">)
+	数组_剧集尾(</div>)
+	//截取剧集名
+	剧集名头(">)
+	剧集名尾(</a>)
+	//截取剧集地址
+	播放url头(<a href=")
+	播放url尾(")
+	
+	地址头(https://www.appmovie.cc)//如果地址数据不完整这里要写上前面的数据
+	地址尾()//后面还有数据的情况这里写上后面数据
+	
+##
+
+]
+
+网页[
+
+名称##
+	天天影视
+##
+
+分类##
+
+	分类(动作片|喜剧片|爱情片|科幻片|恐怖片|剧情片|战争片|伦理片)
+	分类地址(https://www.jianwi.com/vodshow/6--------页数---.html|https://www.jianwi.com/vodshow/7--------页数---.html|https://www.jianwi.com/vodshow/8--------页数---.html|https://www.jianwi.com/vodshow/9--------页数---.html|https://www.jianwi.com/vodshow/10--------页数---.html|https://www.jianwi.com/vodshow/11--------页数---.html|https://www.jianwi.com/vodshow/12--------页数---.html|https://www.jianwi.com/vodshow/20--------页数---.html)
+
+##
+
+列表##
+	//截取视频列表框数据块
+	列表数据头(<ul class="mo-cols-rows">)
+	列表数据尾(</ul>)
+	//截取所有视频数据
+	数组_列表头(<li)
+	数组_列表尾(</li>)
+	
+	//文本型
+	片名头(html">)
+	片名尾(</a>)
+	
+	封面头(data-original=")
+	封面尾(")
+	
+	播放页url头(href=")
+	播放页url尾(")
+	
+	状态头(mo-coxs-center">)
+	状态尾(</span>)
+
+	地址头(https://www.jianwi.com)//这里写播放地址前面的域名之类的，就是补全播放页地址
+	地址尾()//这里写上播放地址后面数据,一般没有
+
+##
+
+搜索##
+	搜索接口(https://www.jianwi.com/vodsearch/-------------.html?wd=搜索)
+	
+	//截取视频列表框数据块
+	列表数据头(条结果</h2>)
+	列表数据尾(</div></div>)
+	//截取所有视频数据
+	数组_列表头(<h1 class="mo-wrap-arow mo-fsxs-16px mo-fssm-18px">)
+	数组_列表尾(</h1>)
+	
+	//文本型
+	片名头(html">)
+	片名尾(</a>)
+	
+	封面头(空)
+	封面尾(空)
+	
+	播放页url头(href=")
+	播放页url尾(")
+	
+	状态头(空)
+	状态尾(空)
+
+	地址头(https://www.jianwi.com)//这里写播放地址前面的域名之类的，就是补全播放页地址
+	地址尾()//这里写上播放地址后面数据,一般没有
+##
+
+剧集##
+
+	剧名头(" data-name=")
+	剧名尾(")
+	简介头(<div class="mo-paxs-5px mo-ptxs-0px">)
+	简介尾(</div>)
+	
+	//截取剧集数据块
+	剧集数据头(<div class="mo-sort-head mo-cols-rows mo-paxs-5px mo-pamd-10px">)
+	剧集数据尾(<div class="mo-back-white mo-mtxs-10px mo-mtmd-20px">)
+	
+	//截取所有播放器名字
+	数组_播放器头(</i>)
+	数组_播放器尾(</a>)
+	//截取所有播放器的剧集数据
+	数组_剧集头(<a class="mo-part-btns)
+	数组_剧集尾(</li>)
+	//截取剧集名
+	剧集名头(target="_self">)
+	剧集名尾(</a>)
+	//截取剧集地址
+	播放url头(href=")
+	播放url尾(")
+	
+	地址头(https://www.jianwi.com)//如果地址数据不完整这里要写上前面的数据
+	地址尾()//后面还有数据的情况这里写上后面数据
+##
+
+]
+
+
+网页[
+
+名称##
+	天空影视
+##
+
+分类##
+
+	分类(电影|电视剧|综艺|动漫|欧美|日韩)
+	分类地址(http://tkznp.com/vodshow/id/1/page/页数.html|http://tkznp.com/vodshow/id/2/page/页数.html|http://tkznp.com/vodshow/id/3/page/页数.html|http://tkznp.com/vodshow/id/4/page/页数.html|http://tkznp.com/vodshow/id/16/page/页数.html|http://tkznp.com/vodshow/id/15/page/页数.html)
+
+##
+
+列表##
+	//截取视频列表框数据块
+	列表数据头(评分排序</a>)
+	列表数据尾(<div id="page">)
+	
+	//截取所有视频数据
+	数组_列表头(<a href)
+	数组_列表尾(<i class="icon-play"></i>)
+	
+	//文本型
+	片名头(title=")
+	片名尾(")
+	
+	封面头(data-original=")
+	封面尾(")
+	
+	播放页url头(=")
+	播放页url尾(")
+	
+	状态头(<div class="module-item-note">)
+	状态尾(</div>)
+
+	地址头(http://tkznp.com)//这里写播放地址前面的域名之类的，就是补全播放页地址
+	地址尾()//这里写上播放地址后面数据,一般没有
+
+##
+
+搜索##
+    搜索接口(http://tkznp.com/vodsearch/wd/搜索.html)
+    //截取视频列表框数据块
+	列表数据头(<div class="module-heading module-heading-search">)
+	列表数据尾(<div class="fixedGroup">)
+	
+	//截取所有视频数据
+	数组_列表头(<div class="module-card-item module-item">)
+	数组_列表尾(</a>)
+	
+	//文本型
+	片名头(alt=")
+	片名尾(")
+	
+	封面头(data-original=")
+	封面尾(")
+	
+	播放页url头(<a href=")
+	播放页url尾(")
+	
+	状态头(<div class="module-item-note">)
+	状态尾(</div>)
+
+	地址头(http://tkznp.com)//这里写播放地址前面的域名之类的，就是补全播放页地址
+	地址尾()//这里写上播放地址后面数据,一般没有
+##
+
+剧集##
+
+	剧名头(<h1>)
+	剧名尾(</h1>)
+	简介头(<p>)
+	简介尾(</p>)
+	
+	//截取剧集数据块
+	剧集数据头(<!--详情页list-->)
+	剧集数据尾(相关推荐)
+	
+	//截取所有播放器的名字
+	数组_播放器头(data-dropdown-value=")
+	数组_播放器尾(")
+	//截取所有播放器的剧集数据
+	数组_剧集头(<div class="module-play-list">)
+	数组_剧集尾(</div>)
+	//截取剧集名
+	剧集名头(<span>)
+	剧集名尾(</span>)
+	//截取剧集地址
+	播放url头(href=")
+	播放url尾(")
+	
+	地址头(http://tkznp.com)//如果地址数据不完整这里要写上前面的数据
+	地址尾()//后面还有数据的情况这里写上后面数据
+	
+##
+
 ]
