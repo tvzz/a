@@ -11,16 +11,18 @@
 影视[精品10,http://app.mengdandan.com/xgapp.php/v1/,解析]
 
 /解析格式/
-解析[线路1,http://rxjx.kuanjv.com/allm3u8.php?url=]
-解析[线路2,http://newjiexi.gotka.top/keyu3.php?url=]
-解析[线路3,http://123.57.56.94:9931/lanlan/?url=]
-解析[线路4,http://lanlan.ckflv.cn/?url=]
-解析[线路5,https://jx.bozrc.com:4433/player/?url=]
-解析[线路6,https://okjx.cc/?url=]
-解析[线路7,https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url=]
-解析[线路8,http://api.vip123kan.vip/?url=]
+解析[线路1,http://json.youguo520.top/fufeng/?url=]
+解析[线路2,http://123.57.56.94:9931/lanlan/?url=]
+解析[线路3,http://lanlan.ckflv.cn/?url=]
+解析[线路4,https://chaxun.truechat365.com/?url=]
+解析[线路5,https://jx.parwix.com:4433/player/?url=]
+解析[线路6,https://jx.parwix.com:4433/player/analysis.php?v=]
+解析[线路7,https://www.yemu.xyz/?url=]
+解析[线路8,http://rxjx.kuanjv.com/allm3u8.php?url=]
 解析[线路9,http://newjiexi.gotka.top/keyu3.php?url=]
-解析[线路10,https://jx.m3u8.tv/jiexi/?url=]
+解析[线路10,https://jx.bozrc.com:4433/player/?url=]
+
+
 
 直播[
 分类##
