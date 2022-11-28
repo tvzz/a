@@ -29,6 +29,7 @@
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"201c1f751ff44f3b9e7f174878306d86"},
 
 {"key":"Yisou","name":"搜索","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"201c1f751ff44f3b9e7f174878306d86"}
+
 ],
 
 "parses":[
