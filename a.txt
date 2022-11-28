@@ -8,7 +8,7 @@
 
 {"key":"YQK_spider","name":"一起","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 
-{"key": "Gitcafe","name": "纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "201c1f751ff44f3b9e7f174878306d86"},
+{"key": "Gitcafe","name": "纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "201c1f751ff44f3b9e7f174878306d86"},
 
 {"key":"LiteApple","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
