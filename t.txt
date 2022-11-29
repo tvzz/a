@@ -85,7 +85,7 @@
         },		
         {
             "key": "Gitcafe",
-            "name": "纸条1",
+            "name": "纸条",
             "type": 3,
             "api": "csp_Gitcafe",
             "searchable": 1,
@@ -93,16 +93,6 @@
             "filterable": 1,
             "ext": "http://ali.饭太硬.ml/tok"
         },	
-        {
-            "key": "Gitcafe",
-            "name": "纸条2",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/token.json"
-        }, 
         {
             "key": "农民",
             "name": "农民",
