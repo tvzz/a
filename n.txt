@@ -1,5 +1,6 @@
 {
 "sites":[
+
 {"key":"七七","name":"七七(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://download.kstore.space/download/3376/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
 
 {"key":"快看影视","name":"快看影视(爬虫)","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
@@ -26,7 +27,7 @@
 
 {"key": "Lezhu","name": "乐猪(爬虫)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 
-{"key":"Yisou","name":"易搜（仅搜索）","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"201c1f751ff44f3b9e7f174878306d86"}，
+{"key":"Yisou","name":"易搜（仅搜索）","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"201c1f751ff44f3b9e7f174878306d86"},
 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"201c1f751ff44f3b9e7f174878306d86"}
 
