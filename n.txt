@@ -1,7 +1,7 @@
 {
 "sites":[
 
-{"key":"七七","name":"七七(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://download.kstore.space/download/3376/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
+{"key":"七七","name":"七七(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://tvzz.github.io/b/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
 
 {"key":"快看影视","name":"快看影视(爬虫)","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 
