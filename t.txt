@@ -334,7 +334,7 @@
             "quickSearch": 1,
             "filterable": 1
         },	
-       {
+        {
             "key": "Yj1211",
             "name": "主播",
             "type": 3,
@@ -373,7 +373,7 @@
             "filterable":1,
             "ext": "http://ali.饭太硬.ml/tok"
         },
-1        {
+        {
             "key": "Yisou",
             "name": "搜索3",
             "type":3,
