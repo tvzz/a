@@ -8,16 +8,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Tkys",
-            "name": "天空",
-            "type": 3,
-            "api": "csp_Tkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },		
+        },	
         {
             "key": "🍎",
             "name": "苹果",
@@ -46,15 +37,15 @@
             "filterable": 1
         },
         {
-            "key": "AppTT",
+            "key": "csp_AppTT",
             "name": "TT",
             "type": 3,
             "api": "csp_AppTT",
-            "playerType": 1,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext":"http://110.42.6.212:7788"
+            "ext": "http://121.205.88.126:7788"
         },
         {
             "key": "Bttoo",
@@ -84,16 +75,6 @@
             "filterable": 1
         },		
         {
-            "key": "Gitcafe",
-            "name": "纸条",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/tok"
-        },	
-        {
             "key": "农民",
             "name": "农民",
             "type": 3,
@@ -101,7 +82,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://tvzz.github.io/b/1/nongminyingshi.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tvzz/b/main/1/nongminyingshi.json"
         },	
         {
             "key": "360",
@@ -132,22 +113,13 @@
         },	
         {
             "key": "Voflix",
-            "name": "VOF1",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Voflix",
             "name": "VOF2",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://tvzz.github.io/b/1/voflix.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tvzz/b/main/1/voflix.json"
         },	
         {
             "key": "Bdys01",
@@ -195,15 +167,6 @@
             "filterable": 1
         },	
         {
-            "key": "Dy555",
-            "name": "555",
-            "type": 3,
-            "api": "csp_Dy555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Dy1010",
             "name": "1010",
             "type": 3,
@@ -213,17 +176,8 @@
             "filterable": 1
         },		
         {
-            "key": "IQIYI",
-            "name": "极速1",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "QQ",
-            "name": "极速2",
+            "name": "极速1",
             "type": 3,
             "api": "csp_QQ",
             "searchable": 1,
@@ -232,13 +186,22 @@
         },
         {
             "key": "MGTV",
-            "name": "极速3",
+            "name": "极速2",
             "type": 3,
             "api": "csp_Mgtv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },			
+        },
+        {
+            "key": "IQIYI",
+            "name": "极速3",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },		
         {
             "key": "csp_xBPQ真不卡",
             "name": "不卡",
@@ -247,18 +210,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext":"https://tvzz.github.io/b/1/bk.json"
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tvzz/b/main/1/bk.json"
         },	
-        {
-            "key": "csp_XBPQ极品影视",
-            "name": "极品",
-            "type":3,
-            "api":"csp_xBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://tvzz.github.io/b/1/xbpqjpys.json"
-        },
         {
             "key": "口袋影院",
             "name": "口袋",
@@ -267,7 +220,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://tvzz.github.io/b/1/kdyy.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tvzz/b/main/1/kdyy.json"
         },
         {
             "key": "Auete",
@@ -279,38 +232,10 @@
             "filterable": 1
         },
         {
-            "key": "瓜皮",
-            "name": "瓜皮",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://tvzz.github.io/b/1/gptv.json"
-        },	
-        {
             "key": "Dm84",
             "name": "巴士",
             "type": 3,
             "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Anime1",
-            "name": "日漫(爬虫)",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Anfuns",
-            "name": "Anfuns(爬虫)",
-            "type": 3,
-            "api": "csp_Anfuns",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -341,47 +266,155 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://tvzz.github.io/b/1/bili.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tvzz/b/main/1/bili.json"
+        },
+        {
+            "key": "Gitcafe",
+            "name": "小纸条(爬虫)",
+            "type": 3,
+            "api": "csp_Paper",
+            "playerType":2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ali.饭太硬.ml/tok"
         },
         {
             "key": "zhaozy",
             "name": "搜索1",
             "type": 3,
             "api": "csp_Zhaozy",
+            "playerType":1,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
+            "filterable": 0,
             "ext": "http://ali.饭太硬.ml/tok"
-        },		
+        },	
         {
             "key": "AliPS",
             "name": "搜索2",
             "type":3,
-            "api":"csp_AliPS",
+            "api":"csp_PanSou",
+            "playerType":2,
             "searchable":1,
             "quickSearch":1,
-            "filterable":1,
+            "filterable":0,
             "ext": "http://ali.饭太硬.ml/tok"
         },
         {
             "key": "Yisou",
             "name": "搜索3",
             "type":3,
-            "api":"csp_Yisou",
+            "api":"csp_YiSo",
+            "playerType":2,
             "searchable":1,
             "quickSearch":1,
-            "filterable":1,
+            "filterable":0,
             "ext": "http://ali.饭太硬.ml/tok"
         },
         {
             "key": "Upyunso",
             "name": "搜索4",
+            "type":3,
+            "api":"csp_Upyunso",
+            "playerType":1,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext": "http://ali.饭太硬.ml/tok"
+        },
+        {
+            "key": "Voflix",
+            "name": "Voflix(爬虫)",
             "type": 3,
-            "api": "csp_Upyunso",
+            "api": "csp_Voflix",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
+            "filterable": 1
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "厂长(爬虫)",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Xinsj",
+            "name": "新视觉(爬虫)",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "playerType":2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Panghu",
+            "name": "胖虎(爬虫)",
+            "type": 3,
+            "api": "csp_Panghu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Smdyy",
+            "name": "神马电影院(爬虫)",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Tkys",
+            "name": "天空影视(爬虫)",
+            "type": 3,
+            "api": "csp_Tkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Anime1",
+            "name": "日漫(爬虫)",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Anfuns",
+            "name": "Anfuns(爬虫)",
+            "type": 3,
+            "api": "csp_Anfuns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Ying",
+            "name": "樱动漫(爬虫)",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Ysj",
+            "name": "异世界(爬虫)",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },		
         {
             "key": "推送",
@@ -397,7 +430,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly90dnp6LmdpdGh1Yi5pby9iLzEvbC50eHQ="
+        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdHZ6ei9iL21haW4vMS9sLnR4dA=="
     ]}]}],
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
@@ -405,10 +438,9 @@
     {"name":"Json轮询","type":2,"url":"Sequence"},
     {"name": "可遇不可求","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
     {"name":"bozrc","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
-    {"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
-    {"name":"懒懒1","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
-    {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
-    ],	
+    {"name":"rxjx","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+    {"name":"lanlan","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
+    ],
 "flags":[
 "youku",
 "qq",
@@ -662,6 +694,6 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/tvzz/b/main/1/1129.jar;md5;3a462cb22337e60329e385ff5f809538"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/tvzz/b/main/1/1219.jar;md5;cdd47c05b7bd1970b208227dc013b7ae"
 	   
 }
