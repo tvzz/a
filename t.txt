@@ -19,24 +19,6 @@
             "filterable": 1
         },
         {
-            "key": "Kuaikan",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Juhuang",
-            "name": "剧荒",
-            "type": 3,
-            "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_AppTT",
             "name": "TT",
             "type": 3,
@@ -52,6 +34,25 @@
             "name": "Btt",
             "type": 3,
             "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Kuaikan",
+            "name": "快看",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },	
+        {
+            "key": "csp_Czsapp",
+            "name": "厂长",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -94,6 +95,17 @@
             "filterable": 1
         },
         {
+            "key": "Gitcafe",
+            "name": "纸条",
+            "type": 3,
+            "api": "csp_Paper",
+            "playerType":2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ali.饭太硬.ml/tok"
+        },
+        {
             "key": "Coke",
             "name": "Coke",
             "type": 3,
@@ -103,38 +115,30 @@
             "filterable": 1
         },
         {
-            "key": "Lgyy",
-            "name": "蓝光",
+            "key": "csp_Xinsj",
+            "name": "视觉",
             "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },	
-        {
-            "key": "Voflix",
-            "name": "VOF2",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tvzz/b/main/1/voflix.json"
-        },	
-        {
-            "key": "Bdys01",
-            "name": "哔滴",
-            "type": 3,
-            "api": "csp_Bdys01",
+            "api": "csp_Xinsj",
+            "playerType":2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "Ddrk",
-            "name": "低端",
+            "key": "Panghu",
+            "name": "胖虎",
             "type": 3,
-            "api": "csp_Ddrk",
+            "api": "csp_Panghu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Voflix",
+            "name": "VOF,
+            "type": 3,
+            "api": "csp_Voflix",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -149,15 +153,6 @@
             "filterable": 1
         },
         {
-            "key": "Fantuan",
-            "name": "饭团",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },	
-        {
             "key": "Lib",
             "name": "Lib",
             "type": 3,
@@ -167,13 +162,68 @@
             "filterable": 1
         },	
         {
-            "key": "Dy1010",
-            "name": "1010",
+            "key": "Ddrk",
+            "name": "低端",
             "type": 3,
-            "api": "csp_Dy1010",
+            "api": "csp_Ddrk",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "Fantuan",
+            "name": "饭团",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Juhuang",
+            "name": "剧荒",
+            "type": 3,
+            "api": "csp_Juhuang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },		
+        {
+            "key": "Auete",
+            "name": "AUE",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },		
+        {
+            "key": "Bdys01",
+            "name": "哔滴",
+            "type": 3,
+            "api": "csp_Bdys01",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Nkdy",
+            "name": "难看",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_xBPQ真不卡",
+            "name": "不卡",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tvzz/b/main/1/bk.json"
         },		
         {
             "key": "QQ",
@@ -189,62 +239,6 @@
             "name": "极速2",
             "type": 3,
             "api": "csp_Mgtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "IQIYI",
-            "name": "极速3",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },		
-        {
-            "key": "csp_xBPQ真不卡",
-            "name": "不卡",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tvzz/b/main/1/bk.json"
-        },	
-        {
-            "key": "口袋影院",
-            "name": "口袋",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tvzz/b/main/1/kdyy.json"
-        },
-        {
-            "key": "Auete",
-            "name": "AUE",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Dm84",
-            "name": "巴士",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },				
-        {
-            "key": "Nkdy",
-            "name": "难看",
-            "type": 3,
-            "api": "csp_Nkdy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -269,30 +263,8 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tvzz/b/main/1/bili.json"
         },
         {
-            "key": "Gitcafe",
-            "name": "小纸条(爬虫)",
-            "type": 3,
-            "api": "csp_Paper",
-            "playerType":2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://ali.饭太硬.ml/tok"
-        },
-        {
-            "key": "zhaozy",
-            "name": "搜索1",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "playerType":1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/tok"
-        },	
-        {
             "key": "AliPS",
-            "name": "搜索2",
+            "name": "搜索1",
             "type":3,
             "api":"csp_PanSou",
             "playerType":2,
@@ -303,7 +275,7 @@
         },
         {
             "key": "Yisou",
-            "name": "搜索3",
+            "name": "搜索2",
             "type":3,
             "api":"csp_YiSo",
             "playerType":2,
@@ -314,7 +286,7 @@
         },
         {
             "key": "Upyunso",
-            "name": "搜索4",
+            "name": "搜索3",
             "type":3,
             "api":"csp_Upyunso",
             "playerType":1,
@@ -322,100 +294,7 @@
             "quickSearch":1,
             "filterable":0,
             "ext": "http://ali.饭太硬.ml/tok"
-        },
-        {
-            "key": "Voflix",
-            "name": "Voflix(爬虫)",
-            "type": 3,
-            "api": "csp_Voflix",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Czsapp",
-            "name": "厂长(爬虫)",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Xinsj",
-            "name": "新视觉(爬虫)",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "playerType":2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Panghu",
-            "name": "胖虎(爬虫)",
-            "type": 3,
-            "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Smdyy",
-            "name": "神马电影院(爬虫)",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Tkys",
-            "name": "天空影视(爬虫)",
-            "type": 3,
-            "api": "csp_Tkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Anime1",
-            "name": "日漫(爬虫)",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Anfuns",
-            "name": "Anfuns(爬虫)",
-            "type": 3,
-            "api": "csp_Anfuns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Ying",
-            "name": "樱动漫(爬虫)",
-            "type": 3,
-            "api": "csp_Ying",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Ysj",
-            "name": "异世界(爬虫)",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },		
+        },	
         {
             "key": "推送",
             "name": "推送",
