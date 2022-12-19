@@ -135,7 +135,7 @@
         },
         {
             "key": "Voflix",
-            "name": "VOF,
+            "name": "VOF",
             "type": 3,
             "api": "csp_Voflix",
             "playerType": 2,
