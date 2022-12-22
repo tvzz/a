@@ -9,17 +9,17 @@
             "quickSearch": 1,
             "filterable": 1
         },
-    {
-      "key": "YQK_spider",
-      "name": "一起看TV",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://api-tx.shumaxc.xyz",
-      "jar": "https://ghproxy.com/raw.githubusercontent.com/tvzz/b/main/1128.jar;md5;6A92E85399922FF0FD7813BBC2F09957"
-    },	
+        {
+            "key": "YQK_spider",
+            "name": "一起看TV",
+            "type": 3,
+            "api": "csp_YQKAPP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://api-tx.shumaxc.xyz",
+            "jar": "https://ghproxy.com/raw.githubusercontent.com/tvzz/b/main/1128.jar;md5;6A92E85399922FF0FD7813BBC2F09957"
+        },	
         {
             "key": "🍎",
             "name": "苹果",
