@@ -593,5 +593,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/tvzz/b/main/1222.jar;md5;cdd47c05b7bd1970b208227dc013b7ae"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/tvzz/b/main/1222.jar;md5;A8CA680A2ABD46E77E20089860D164AC"
 }
